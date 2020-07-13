@@ -86,37 +86,37 @@ projects:
       My Android development work related to mPOS, m-commerce, reporting, Chat, Voice and Video call, Video player and Cloud (Google drive, FTP server) integration to the app. 
     assignments:
       - title: Media Entertainment App
-        link: "#hook"
+        link: "#"
         tagline: "Users can provide positive or negative live ratings to radio guests/hosts and can participante in daily polls. Users can get notification for shows related topics. Users can set reminder and get notification when show got live. Users can also chat with other users who  are on the same show chat room with ranking their chat message. Chat of this app is quite unique. Used Room database with live data to store chat message locally. In this prokect have used live data and view model and data binding. For real time rating and poll we have used Socket.io.
-        App developed in Kotlin language and MVVM architecture design pattern from scractch."
+        App developed in Kotlin language and MVVM architecture design pattern from scratch."
 
       - title: Insurance Education App
         link: "#"
-        tagline: "Worked on MVP along with Java. User can watch recored video on Insuracne educationa nd take part in an exam and get the result on the app itself with certificate."
+        tagline: "Worked on MVP along with Java. User can watch recored video on Insuracne education and take part in an exam and get the result on the app itself with certificate."
 
       - title: MPOS Android App
         link: "#"
         tagline: "Worked on MVP and also on MVVM architecture patterns in java. Worked on receipt printing, tax calculation, Gift card payment."
 
       - title: Peddle plus reporting
-        link: "#"
+        link: "https://play.google.com/store/apps/details?id=peddleplus.com.peddleplusreporting&hl=en_IN"
         tagline: "It is a reporting and inventory traking app. Users can view their sale, purchase and payment related data in visual PIA chat. Users can also track their inventory item quantity. Users can sort and search data based on date aon purchase and amount on sale screen. Inventpry item with color, amount, price. Used MVC architecyire and java langugae. I have worked on the app from scratch."
 
       - title: Twincel
-        link: "#"
-        tagline: "Users can watch advertisments based on their location as video, Image or GIF. After each advertisement can answer question relared to advertisement and get rewards on correct answer. Userc can backup their contacts, sms on twincel server. But user can also backup video, audio, files, images on their server using FTP or their Google drive. Users can also chat, make audio and video canns with their own company employee if ther are onboard. Chat, Audio adn vudeo features imolemented using Sinch their party library. Employee can also scan other employee vising card and directly store contact and email to their cintact list. Employee can easily share their visiting card with others also via all type of social media platforms as image. I haved used Google OCR to extact visiting card email and mobile number by capturing image of visiting card."
+        link: "https://play.google.com/store/apps/details?id=com.timeous.contactbackup&hl=en_IN"
+        tagline: "Users can watch advertisments based on their location as video, Image or GIF. After each advertisement can answer question relared to advertisement and get rewards on correct answer. Userc can backup their contacts, sms on twincel server. But user can also backup video, audio, files, images on their server using FTP or their Google drive. Users can also chat, make audio and video canns with their own company employee if their are onboard. Chat, Audio and video features implemented using Sinch third party library. Employee can also scan other employee visiting card and directly store contact and email to their contact list. Employee can easily share their visiting card with others and also via all type of social media platforms as image. I haved used Google OCR to extact visiting card email and mobile number by capturing image of visiting card."
         
       - title: Peddle plus
-        link: "#"
-        tagline: "Peddle plus is an Android app which procide user an online and offline both experience. It is simple and fast way to enhance shopping experience and help local shop to compete with online players. User can also place home delivery and can pay online or COD. After initial development, the app convert to peddle plus aggregator m-commerce app. Based on user location, app shows neares store. After selecting it user can pick items, add to cart and make payment. User can also visit the store and scan item and build order and can pay on counter or online. Added UPI proximity, Paytm payment gateway and payumoney. Also worked on to sync website sale to app. Refund and order develivery status on the app."
+        link: "https://play.google.com/store/apps/details?id=com.peddleplus&hl=en_IN"
+        tagline: "Peddle plus is an Android app which provide user an online and offline both experience. It is simple and fast way to enhance shopping experience and help local shop to compete with online players. User can also place home delivery and can pay online or COD. After initial development, the app convert to peddle plus aggregator m-commerce app. Based on user location, app shows nearest stores. After selecting store, user can pick items, add to cart and make payment. User can also visit the store and scan item and build order list and can pay on counter or online. Added UPI proximity, Paytm payment gateway and payumoney. Also worked on to sync website sale to app. Refund and order develivery status on the app."
         
       - title: Peddle plus mpos
-        link: "#"
-        tagline: "It is a offline and online POS application which can create order for users, provide discount, generate invoice, take payment via different method like card, UPI, wallet, print invoice using bluetooth printer or share it with user on diffent whatsapp or email based on user preference. User can upload bulk .CSV or Excel item data into app local database."
+        link: "https://play.google.com/store/apps/details?id=peddlepluslite.com.peddlepluslite&hl=en_IN"
+        tagline: "It is a offline and online POS application which can create order for users, provide discount, generate invoice, take payment via different method like card, UPI, wallet, print invoice using bluetooth printer or share it with user using whatsapp or email based on user preference. User can upload bulk .CSV or Excel item data into app local database."
         
       - title: TapToLead
         link: "#"
-        tagline: "This is a loan provider agent aggregator application. Agent and user bith can use this app. User can applied for the loan with initial document and conditions which agent is abile to procide the loan can furture interact with the user on the app.
+        tagline: "This is a loan provider agent aggregator application. Agent and user bith can use this app. User can applied for the loan with initial document and conditions which agent is able to procide the loan can furture interact with the user on the app. This app is not on play store.
         Role : Mostly worked on UI developement and API call."
 
 education:
