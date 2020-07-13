@@ -63,17 +63,6 @@ skills:
         
       - name: Room database
         level: 85%
-
-
-
-education:
-    - degree: B.E (IT) from Technocrates intitute of technology
-      university: RGPV
-      time: 2012 - 2016
-      
-    - degree: I.Sc in 2012
-      university: Magadh University
-      time: 2010 - 2012
   
 experiences:
     - role: Android developer
@@ -130,6 +119,14 @@ projects:
         tagline: "This is a loan provider agent aggregator application. Agent and user bith can use this app. User can applied for the loan with initial document and conditions which agent is abile to procide the loan can furture interact with the user on the app.
         Role : Mostly worked on UI developement and API call."
 
+education:
+    - degree: B.E (IT) from Technocrates intitute of technology
+      university: RGPV
+      time: 2012 - 2016
+      
+    - degree: I.Sc in 2012
+      university: Magadh University
+      time: 2010 - 2012
 #publications:
     #title: Publications
     #intro: |
