@@ -15,13 +15,13 @@ sidebar:
     email: sumitmac4life@gmail.com
     phone: 9039802756
     website: techguruhost.in #do not add http://
-    linkedin: alandoe
+    linkedin: sumit-kumar-61365772
     github: codetgh
     #telegram: # add your nickname without '@' sign
     #gitlab:
     #bitbucket:
     twitter: '@techguruhost'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 4041955/sumit-kumar # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -83,7 +83,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      #can add more detail
+       My Android development work related to mPOS, m-commerce, reporting, Chat, Voice and Video call, Video player and Cloud (Google drive, FTP server) integration to the app.
     assignments:
       - title: Media Entertainment App
         link: "#hook"
