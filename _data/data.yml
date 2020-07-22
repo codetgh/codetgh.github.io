@@ -41,7 +41,7 @@ skills:
 
     toolset:
       - name: Android SDK
-        level: 98%
+        level: 90%
 
       - name: JAVA
         level: 98%
@@ -50,7 +50,7 @@ skills:
         level: 80%
 
       - name: RxJava
-        level: 60%
+        level: 80%
 
       - name: Google Technologies
         level: 95%
@@ -62,6 +62,12 @@ skills:
         level: 85%
         
       - name: Room database
+        level: 85%
+      
+      - name: Third party API use (like zxing, lotty, Google technologies)
+        level: 90%
+        
+      - name: Architecture design pattern like MVVM, MVP
         level: 85%
   
 experiences:
@@ -92,7 +98,7 @@ projects:
 
       - title: Insurance Education App
         link: "#"
-        tagline: "Worked on MVP along with Java. User can watch recored video on Insuracne education and take part in an exam and get the result on the app itself with certificate."
+        tagline: "Worked on MVP along with Java. User can watch recored video on Insurance education and take part in an exam and get the result on the app itself with certificate."
 
       - title: MPOS Android App
         link: "#"
@@ -100,11 +106,11 @@ projects:
 
       - title: Peddle plus reporting
         link: "https://play.google.com/store/apps/details?id=peddleplus.com.peddleplusreporting&hl=en_IN"
-        tagline: "It is a reporting and inventory traking app. Users can view their sale, purchase and payment related data in visual PIA chat. Users can also track their inventory item quantity. Users can sort and search data based on date aon purchase and amount on sale screen. Inventpry item with color, amount, price. Used MVC architecyire and java langugae. I have worked on the app from scratch."
+        tagline: "It is a reporting and inventory managment app. Users can view their sale, purchase and payment related data in visual PIA chat. Users can also track their inventory item quantity. Users can sort and search data based on date, purchase and amount on sale screen. Inventpry item with color, amount, price. Used MVC architecyire and java langugae. I have worked on the app from scratch."
 
       - title: Twincel
         link: "https://play.google.com/store/apps/details?id=com.timeous.contactbackup&hl=en_IN"
-        tagline: "Users can watch advertisments based on their location as video, Image or GIF. After each advertisement can answer question relared to advertisement and get rewards on correct answer. Userc can backup their contacts, sms on twincel server. But user can also backup video, audio, files, images on their server using FTP or their Google drive. Users can also chat, make audio and video canns with their own company employee if their are onboard. Chat, Audio and video features implemented using Sinch third party library. Employee can also scan other employee visiting card and directly store contact and email to their contact list. Employee can easily share their visiting card with others and also via all type of social media platforms as image. I haved used Google OCR to extact visiting card email and mobile number by capturing image of visiting card."
+        tagline: "Users can watch advertisments based on their location as video, Image or GIF. After each advertisement, user have to answer question relared to advertisement and get rewards on correct answer. User can backup their contacts, sms on twincel server. But user can also backup video, audio, files, images on their server using FTP or their Google drive. Users can also chat, make audio and video call with their own company employee if their company is onboard. Chat, Audio and video features implemented using Sinch third party library. Employee can also scan other employee visiting card and directly store contact and email to their contact list. Employee can easily share their visiting card with others and also via all type of social media platforms as image. I haved used Google OCR to extact visiting card email and mobile number by capturing image of visiting card."
         
       - title: Peddle plus
         link: "https://play.google.com/store/apps/details?id=com.peddleplus&hl=en_IN"
@@ -116,8 +122,12 @@ projects:
         
       - title: TapToLead
         link: "#"
-        tagline: "This is a loan provider agent aggregator application. Agent and user bith can use this app. User can applied for the loan with initial document and conditions which agent is able to procide the loan can furture interact with the user on the app. This app is not on play store.
+        tagline: "This is a loan provider agent aggregator application. Agent and user both can use this app. User can applied for the loan with initial document and conditions which agent is able to procide the loan can furture interact with the user on the app. This app is not on play store.
         Role : Mostly worked on UI developement and API call."
+        
+      - title: Dryve
+        link: "https://play.google.com/store/apps/details?id=com.ac.dryve&hl=en_IN"
+        tagline: "This is game which able to test a drunk user can drive or not. User has to pass three level of difficulty if user pass all levels then okay otherwise app open Ola or Uber app based on user preferece."
 
 education:
     - degree: B.E (IT) from Technocrates intitute of technology
