@@ -47,10 +47,10 @@ skills:
         level: 98%
         
       - name: Kotlin
-        level: 80%
+        level: 85%
 
       - name: RxJava
-        level: 60%
+        level: 75%
 
       - name: Google Technologies
         level: 95%
@@ -63,6 +63,9 @@ skills:
         
       - name: Room database
         level: 85%
+        
+      - Third party API use
+        level: 95%
   
 experiences:
     - role: Android developer
@@ -87,12 +90,12 @@ projects:
     assignments:
       - title: Media Entertainment App
         link: "#hook"
-        tagline: "Users can provide positive or negative live ratings to radio guests/hosts and can participante in daily polls. Users can get notification for shows related topics. Users can set reminder and get notification when show got live. Users can also chat with other users who  are on the same show chat room with ranking their chat message. Chat of this app is quite unique. Used Room database with live data to store chat message locally. In this prokect have used live data and view model and data binding. For real time rating and poll we have used Socket.io.
+        tagline: "Users can provide positive or negative live ratings to radio guests/hosts and can participante in daily polls. Users can subscribe topics and get notification for shows related topics as soon as topic goes live. Users can set reminder and get notification when show got live. Users can also chat with other users who  are on the same show chat room with ranking their chat message. Chat of this app is quite unique. Used Room database with live data to store chat message locally. In this project, I have used live data and view model and data binding. For real time rating and poll we have used Socket.io.
         App developed in Kotlin language and MVVM architecture design pattern from scractch."
 
       - title: Insurance Education App
         link: "#"
-        tagline: "Worked on MVP along with Java. User can watch recored video on Insuracne educationa nd take part in an exam and get the result on the app itself with certificate."
+        tagline: "Worked on MVP along with Java. User can watch recored video on Insuracne education and take part in an exam and get the result on the app itself with certificate. Mainly work on UI improvement and network call to get data using Retrofit"
 
       - title: MPOS Android App
         link: "#"

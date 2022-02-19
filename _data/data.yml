@@ -89,11 +89,13 @@ experiences:
 projects:
     title: Projects
     intro: >
-      My Android development work related to mPOS, m-commerce, reporting, Chat, Voice and Video call, Video player and Cloud (Google drive, FTP server) integration to the app. 
+      My Android development work related to mPOS, m-commerce, reporting(charts and graphs), Chat, Voice and Video call, Video player and Cloud (Google drive, FTP server) integration to the app. I have also worked in creating music player, video player, ticket booking app. Worked in app which provide offline support.
     assignments:
       - title: Media Entertainment App
-        link: "#"
-        tagline: "Users can provide positive or negative live ratings to radio guests/hosts and can participante in daily polls. Users can get notification for shows related topics. Users can set reminder and get notification when show got live. Users can also chat with other users who  are on the same show chat room with ranking their chat message. Chat of this app is quite unique. Used Room database with live data to store chat message locally. In this prokect have used live data and view model and data binding. For real time rating and poll we have used Socket.io.
+        link: "https://play.google.com/store/apps/details?id=com.talkratingback"
+        website: ""
+        website_link: "http://talkrating.com/"
+        tagline: "Users can provide positive or negative live ratings to radio guests/hosts and can participante in daily polls. Users can get notification for shows related topics. Users can set reminder and get notification when show got live. Users can also chat with other users who are on the same show chat room with ranking their chat message. Chat of this app is quite unique. Used Room database with live data to store chat message locally. In this project have used live data and view model and data binding. For real time rating and poll we have used Socket.io.
         App developed in Kotlin language and MVVM architecture design pattern from scratch."
 
       - title: Insurance Education App
@@ -129,9 +131,21 @@ projects:
         link: "https://play.google.com/store/apps/details?id=com.ac.dryve&hl=en_IN"
         tagline: "This is game which able to test a drunk user can drive or not. User has to pass three level of difficulty if user pass all levels then okay otherwise app open Ola or Uber app based on user preferece."
 
+      - title: Ticketkore
+        link: "https://play.google.com/store/apps/details?id=com.ticketkore.sa"
+        tagline: "Android native app provide smooth flow of ticket booking with private and public events. Developed in Kotlin, MVVM, databinding. Using dynamic link, firebase messaging, geocoding."
+
+      - title: Ticketkore Organiser
+        link: "https://play.google.com/store/apps/details?id=com.ticketkore.sa.organiser"
+        tagline: "Android native app provide booked ticket management by scaning the generated ticket QR code. Also added functionality to read NFC tags and submit records to server."  
+      
+      - title: Midishell
+        link: ""
+        tagline: "Android native app which play USB storage songs and videos using exo player library. Categories songs in artist, albums. Create playlist."  
+
 education:
-    - degree: B.E (IT) from Technocrates intitute of technology
-      university: RGPV
+    - degree: B.E (IT) from Technocrates intitute of technology, Bhopal
+      university: RGPV, Bhopal(M.P)
       time: 2012 - 2016
       
     - degree: I.Sc in 2012
