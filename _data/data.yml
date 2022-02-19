@@ -142,7 +142,6 @@ projects:
       - title: Midishell
         link: ""
         tagline: "Android native app which play USB storage songs and videos using exo player library. Categories songs in artist, albums. Create playlist."  
-
 education:
     - degree: B.E (IT) from Technocrates intitute of technology, Bhopal
       university: RGPV, Bhopal(M.P)
