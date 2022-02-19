@@ -21,8 +21,8 @@
 
       <span class="project-title">
         {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title"}}</a>( {% if project.link %} 'available on play store' {% else %} 'not available on play store') {% endif %}
-         <!--{% if project.website %}
+        <a href="{{ project.link }}" target="_blank">{{ project.title"}}</a><!--( {% if project.link %} 'available on play store' {% else %} 'not available on play store') {% endif %}
+        {% if project.website %}
         <a href="{{ project.website_link}}" target="_blank">{{ project.website }}</a>-->
         {% else %}
         {{ project.title }}
